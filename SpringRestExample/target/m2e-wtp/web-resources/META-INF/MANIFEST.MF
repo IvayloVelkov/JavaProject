@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringRestExample
+Implementation-Version: 1.0.0-BUILD-SNAPSHOT
+Built-By: Alexander Verbovskiy
+Implementation-Vendor-Id: com
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringRestExample
+Created-By: Maven Integration for Eclipse
+
