@@ -11,7 +11,7 @@
 	<properties>
 		<v.java>8</v.java>
 		<v.compiler.plugin>3.7.0</v.compiler.plugin>
-		<v.hibernate>5.3.3.Final</v.hibernate>
+		<v.hibernate>5.3.6.Final</v.hibernate>
 		
 		<!-- JDBC Connection Pooling Version -->
 		<v.c3p0>0.9.5.2</v.c3p0>
